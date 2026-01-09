@@ -29,3 +29,9 @@ Belirlenen URL listesine 5 dakikada bir istek göndererek sitelerin ayakta olup 
 - **Sıfır Bakım:** Sunucu yamalama veya yönetimi gerekmez.
 - **Maliyet Etkin:** Sadece çalıştığı saniyeler için ücretlendirilir (Free Tier kapsamında ücretsizdir).
 - **Ölçeklenebilirlik:** Yüzlerce URL'yi aynı anda kontrol edebilecek kapasitedir.
+
+ Ekran Görüntüleri
+
+![](explanation_1.png)
+![](explanation_2.png)
+![](explanation_3.png)
